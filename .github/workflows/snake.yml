@@ -38,5 +38,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
+          force_orphan: true # Ensures the branch is created if it doesn't exist
           commit_message: "Update snake animation [skip ci]"
