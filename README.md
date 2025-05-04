@@ -1,29 +1,50 @@
-# 💫 About Me:
-<br>👋 Hi, I’m @stfxn-303, you can call me Stefan :)<br>🏫 Student of PSB Academy, Singapore 🇸🇬<br>🌱 I’m currently doing a diploma in Cybersecurity<br>📫 Email me: stfxn303@gmail.com<br>😄 Pronouns: He/Him<br>📆 Preparing to land a job as a SoC Analyst
+<p align="left">👋 Hi, I’m @stfxn-303, you can call me Stefan :)<br>🏫 Student of PSB Academy, Singapore 🇸🇬<br>🌱 I’m currently doing a diploma in Cybersecurity<br>📫 Email me: stfxn303@gmail.com<br>😄 Pronouns: He/Him<br>📆 Preparing to land a job as a SoC Analyst</p>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stefan-samaranayake-635b1b357/) 
+<img src="https://raw.githubusercontent.com/stfxn-303/stfxn-303/output/snake.svg" alt="Snake animation" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stfxn-303&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stfxn-303&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stfxn-303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br clear="both">
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=stfxn-303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stfxn-303&radius=7&theme=react&area=true&order=5" height="170" alt="activity-graph graph"  />
+</div>
 
-![snake gif](https://raw.githubusercontent.com/stfxn-303/stfxn-303/output/github-contribution-grid-snake.svg)
+###
 
+<br clear="both">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stfxn-303&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stfxn-303&limit=5&theme=radical&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=stfxn-303&icon=2&color=4)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://www.linkedin.com/in/stefan-samaranayake-635b1b357/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stfxn-303.stfxn-303&"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=stfxn-303&theme=dracula" alt="Layout with last medium posts"  />
+</div>
+
+###
