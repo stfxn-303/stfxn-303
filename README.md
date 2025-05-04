@@ -13,8 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=stfxn-303&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stfxn-303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 Snake Contribution Graph
-![snake gif](https://github.com/stfxn-303/stfxn-303/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/stfxn-303/stfxn-303/output/github-contribution-grid-snake.svg)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stfxn-303&theme=radical&no-frame=true&no-bg=false&margin-w=4)
