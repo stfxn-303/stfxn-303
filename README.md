@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m @stfxn-303, you can call me Stefan :)<br>🏫 Student of PSB Academy, Singapore 🇸🇬<br>🌱 I’m currently doing a diploma in Cybersecurity<br>📫 Email me: stfxn303@gmail.com<br>😄 Pronouns: He/Him<br>📆 Preparing to land a job as a SoC Analyst</p>
+<p align="left">👋 Hi, I’m @stfxn-303, you can call me Stefan :)<br>🏫 Learning PSB Academy, Singapore 🇸🇬<br>🌱 I’m currently doing a diploma in Cybersecurity<br>📫 Email me: stfxn303@gmail.com<br>😄 Pronouns: He/Him<br>📆 Preparing to land a job as a SoC Analyst</p>
 
 ###
 
